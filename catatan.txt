@@ -1,4 +1,10 @@
-﻿pagu pendapatan skpd:
+﻿
+Data Profil SKPD :
+==================
+https://nusantaraprov.sipd.kemendagri.go.id/daerah/main/budget/skpd/2021/detil-skpd/101/0
+
+
+pagu pendapatan skpd:
 =====================
 https://nusantaraprov.sipd.kemendagri.go.id/daerah/main/budget/pendapatan/2021/ang/tampil-unit/572/0
 
